@@ -1,6 +1,6 @@
 [Unit]
 Description=Websocket-OpenSSH By Etill
-Documentation=https://google.com
+Documentation=https://wa.me/6287721815317
 After=network.target nss-lookup.target
 
 [Service]
